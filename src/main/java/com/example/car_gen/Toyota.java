@@ -2,6 +2,7 @@ package com.example.car_gen;
 
 public class Toyota extends Car{
     private boolean greatGasMilage;
+    //Constructor
      public Toyota(){
          super("blue",180, 180);
      }

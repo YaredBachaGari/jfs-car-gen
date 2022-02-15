@@ -2,7 +2,7 @@ package com.example.car_gen;
 
 public class Honda extends Car{
     private boolean isTurboCharged;
-
+    //Constructor
     public Honda(){
         super("white", 2020, 120);
     }

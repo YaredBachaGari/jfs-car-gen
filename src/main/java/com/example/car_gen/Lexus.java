@@ -3,7 +3,7 @@ package com.example.car_gen;
 public class Lexus extends Car{
 
     private boolean hasLeatherSeats;
-
+    //constructor
     public Lexus(){
         super("red", 2020, 200);
     }
